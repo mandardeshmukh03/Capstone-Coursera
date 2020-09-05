@@ -2,3 +2,8 @@
 ### Make sure that the loan_train.csv and loan_test.csv file is in the same folder as this notebook.
 
 Various classification algortihm are implemented on one csv file, and at the end evaluation of each algorithm is done.
+Classification Algorithm implemented are: 
+                                         K Nearest Neighbor (KNN)
+                                         Decision Tree
+                                         Support Vector Machine (SVM)
+                                         Logistic Regression
