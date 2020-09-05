@@ -11,4 +11,4 @@ Classification Algorithm implemented are:
                                        3)  Support Vector Machine (SVM)
                                        4)  Logistic Regression
                                       
-The code is in: ML0101EN-Proj-Loan-py-v1.ipynb notebook.
+Name of Notebook to open: ML0101EN-Proj-Loan-py-v1.ipynb 
